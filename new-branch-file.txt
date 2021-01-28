@@ -1,2 +1,2 @@
- this is new branch file
+ this is new branch file which is in main branch and new branch
 
