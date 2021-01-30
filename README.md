@@ -1,14 +1,6 @@
-# Git-Essentials
+# Git Essentials / Git for Everybody
 
-## Deployment Notes
-Lorem epsum Lorem epsum Lorem epsum Lorem epsum Lorem epsum Lorem epsum Lorem epsum Lorem epsum Lorem epsum Lorem epsum
+Course for Git biginners
 
-## Staging notes
-Lorem epsumLorem epsumLorem epsumLorem epsumLorem epsumLorem epsumLorem epsumLorem epsumLorem epsumLorem epsumLorem epsum
 
-## Reboot Notes
-Lorem epsumLorem epsumLorem epsumLorem epsumLorem epsumLorem epsumLorem epsumLorem epsumLorem epsumLorem epsumLorem epsumLorem epsum
-
-## Deployment Notes
-Lorem epsum Lorem epsum Lorem epsum Lorem epsum Lorem epsum Lorem epsum Lorem epsum Lorem epsum Lorem epsum Lorem epsu			
-some stuff here
+Learning by Sushmitha
