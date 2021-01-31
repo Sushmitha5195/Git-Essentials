@@ -1,6 +1,3 @@
 # Git Essentials / Git for Everybody
 
-Course for Git biginners
-
-
-Learning by Sushmitha
+Some other work in here by the stash branch
